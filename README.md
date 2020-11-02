@@ -1,7 +1,7 @@
 # data-cleaning-sharks
 Project when I clean a data set using `pandas`, `regex` and `seaborn`.
 
-## Objetcives
+## Objectives
 
 My objectives are **clean the dataset** to remove not relevant information, decide an hypothesis and support it with graphs (made with Seaborn).
 
